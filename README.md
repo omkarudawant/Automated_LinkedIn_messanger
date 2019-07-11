@@ -15,7 +15,7 @@ A Simple Python project using selenium for sending automated messages on LinkedI
 
 Follow the commands in your terminal,
 
- `https://github.com/omkar-udawant/Automated_messanger_LinkedIn.git`
+ `git clone https://github.com/omkar-udawant/Automated_messanger_LinkedIn.git`
 
  `cd Automated_messanger_LinkedIn`
 
