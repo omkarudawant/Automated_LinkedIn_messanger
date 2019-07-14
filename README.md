@@ -1,4 +1,4 @@
-# Automated messanger for LinkedIn
+# Automated LinkedIn messanger 
 
 
 ### Description
@@ -7,7 +7,7 @@ A Simple Python project using selenium for sending automated messages on LinkedI
 
 ### Requirements
 
- `Python 3+`
+ `Python 3.5+`
 
  `selenium`
 
