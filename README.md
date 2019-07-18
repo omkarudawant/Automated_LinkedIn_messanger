@@ -7,10 +7,12 @@ A Simple Python project using selenium for sending automated messages on LinkedI
 
 ### Requirements
 
- `Python 3.5+`
+ `Python 3.6.x`
 
  `selenium`
-
+ 
+ `chromewebdriver` (included in the root drectory)
+ 
 ### Running the project
 
 Follow the commands in your terminal,
